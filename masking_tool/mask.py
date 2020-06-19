@@ -9,7 +9,7 @@ import gdal
 import numpy as np
 import tifffile as tiff
 
-import masking_tool.main as main
+import main as main
 
 RED = 1
 GREEN = 2

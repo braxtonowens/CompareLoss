@@ -1,6 +1,6 @@
-import masking_tool.chips as chips
-import masking_tool.masks as masks
-import masking_tool.inputs as inputs
+import chips as chips
+import masks as masks
+import inputs as inputs
 
 chip_dir = chips.this_dir
 masks_dir = masks.this_dir
