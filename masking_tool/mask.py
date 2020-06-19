@@ -11,6 +11,9 @@ import tifffile as tiff
 
 import main as main
 
+import matplotlib
+matplotlib.use('Agg')
+
 RED = 1
 GREEN = 2
 BLUE = 3
